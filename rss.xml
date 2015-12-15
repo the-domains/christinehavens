@@ -2,10 +2,19 @@
     <channel>
         <title><![CDATA[Christine Havens]]></title>
         <description><![CDATA[Christine Havens]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/christinehavens/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Dec 2015 00:47:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Dec 2015 00:55:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/christinehavens/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sample Policy]]></title>
+            <description><![CDATA[<article><h1>Sample Policy</h1><p>I gladly accept samples of wine for review, and am also available to 
+attend tastings, trade events, press trips, wine region tours, and 
+competitions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e1a35fa3e18765ae3a4ea72f73d234471a85e5fc.jpg"></article>]]></description>
+            <link>https://thegrid.ai/christinehavens/sample-policy/index.html</link>
+            <guid isPermaLink="false">b2cfba40-606d-408a-85ad-b1c81aea2794</guid>
+            <pubDate>Tue, 15 Dec 2015 00:54:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About ]]></title>
             <description><![CDATA[<article><h1>About </h1><p>Christine Havens is a wine writer and former winemaker who has become a Vivino
@@ -14,7 +23,7 @@ ratings. An early adopter, Ms. Havens has been sharing her reviews with
 fellow users since the app hit the US market in late fall 2011. She also
  frequently contributes articles and wine pairing recommendations to the
  news section of the app.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1adf4882a4f8b4711e7144060e04f95ee1c521e6.jpg"></article>]]></description>
-            <link>undefinedabout/index.html</link>
+            <link>https://thegrid.ai/christinehavens/about/index.html</link>
             <guid isPermaLink="false">37cc289b-66d2-49ea-8df0-ffbb70ff3821</guid>
             <pubDate>Tue, 15 Dec 2015 00:46:31 GMT</pubDate>
         </item>
